@@ -31,3 +31,9 @@ an archive cluseter -> 2 days
 ![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/baad4805-0923-4d3f-82ca-a072d2549724)
 
 
+
+
+### Search Index => 
+
+https://github.com/twitter/the-algorithm/blob/main/src/java/com/twitter/search/core/earlybird/README.md
+
