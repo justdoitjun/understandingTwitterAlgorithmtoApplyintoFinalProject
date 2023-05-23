@@ -55,6 +55,10 @@ https://github.com/twitter/the-algorithm/blob/main/src/java/com/twitter/search/c
 결국은 
 ![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/f6e438a7-170c-4ed4-9f69-6919f994f0bb)
 
+배경지식
+![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/05cda95d-617d-4bf5-82f6-1da9792a831b)
+학부 때 배웠던 코사인 유사도를 생각해보자. 기본 정의는 다음과 같고, 핵심은 두 벡터값이 roughly 동일한(유사한) 방향을 얼마나 pointing하고 있느냐에 대한 것이다. 
+즉, 코사인 
 
 
 
