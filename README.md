@@ -52,6 +52,11 @@ https://github.com/twitter/the-algorithm/blob/main/src/java/com/twitter/search/c
 > 신기한 점은 선형대수를 사용한다는 점임. 
 > 정보의 Producer가 있고, 정보의 producer간 관계를 cosine식으로 상수화해두고, 이 둘간의 조합을 통해서, 
 
+결국은 
+![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/f6e438a7-170c-4ed4-9f69-6919f994f0bb)
+
+
+
 
 ![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/d3d8fe60-7b1e-48fb-8b7c-1b7fc46c3e24)
 
