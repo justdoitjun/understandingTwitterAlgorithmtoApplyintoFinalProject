@@ -1,6 +1,13 @@
 # Purpsoe : to understand main logics(not wholly) to apply it into final Project partially. 
 Applying Twitter-recommendation algorithm into final Projects. 
 
+To read
+https://github.com/twitter/the-algorithm/blob/main/cr-mixer/server/src/main/scala/com/twitter/cr_mixer/model/Candidate.scala#L161
+https://github.com/twitter/the-algorithm/tree/main/src/scala/com/twitter/simclusters_v2
+
+
+
+
 ETA : 2 days to understand whole logics. 
 
 ![image](https://github.com/justdoitjun/finalProject/assets/119689162/76c4a3b3-18de-42dc-ba08-85ab529f9241)
