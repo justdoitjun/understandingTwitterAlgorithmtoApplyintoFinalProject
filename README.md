@@ -64,5 +64,9 @@ https://github.com/twitter/the-algorithm/blob/main/src/java/com/twitter/search/c
 ![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/a539a175-05b6-477c-bf13-f908ee2f814b)
 
 
+![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/3104882e-c470-4fe9-a751-31b88b3ddff3)
+
+
+
 
 https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3
