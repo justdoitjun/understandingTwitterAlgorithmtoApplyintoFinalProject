@@ -62,6 +62,14 @@ https://github.com/twitter/the-algorithm/blob/main/src/java/com/twitter/search/c
 학부 때 배웠던 코사인 유사도를 생각해보자. 기본 정의는 다음과 같고, 핵심은 두 벡터값이 roughly 동일한(유사한) 방향을 얼마나 pointing하고 있느냐에 대한 것이다. 
 즉, 코사인 
 
+이 공식을 굳이 왜 찾아봤냐면, 나머지 유사도에 대해서는 직관적으로 이해가 되는데 cosine(v2, v4) = 0.7은 이해가 안되어서 봤다. 얼핏 직관적으로 보기엔 cosine(v1, v4) 와 비슷해보이는데 0.5가 아닌가라고 추론해볼 수 있기 때문이다. 하지만, 위의 정의대로 계산해보면 0.7이 맞다.  
+![producer_producer_similarity](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/acd15b03-0a1c-40f2-9e95-222e0cd20b62)
+cosine(v2, v4) = 0.7이라는 것이 직관적으로 보이지는 않을텐데
+분자 = 1
+분모 = 루트2 * 루트1 
+울프람에 계산을 해보면
+![BB1BB465-34F3-459F-B1FF-66F95208CE90](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/3ac38b2c-00b1-4939-9ef5-2b25cccbb073)
+
 
 
 ![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/d3d8fe60-7b1e-48fb-8b7c-1b7fc46c3e24)
