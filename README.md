@@ -44,3 +44,20 @@ an archive cluseter -> 2 days
 
 https://github.com/twitter/the-algorithm/blob/main/src/java/com/twitter/search/core/earlybird/README.md
 
+
+
+
+### 클러스터링은 필수 중 필수
+* 학부 때 들었던 선형대수랑 3Blue1Brown을 다시 들어서 이해해봐야겠다. 
+> 신기한 점은 선형대수를 사용한다는 점임. 
+> 정보의 Producer가 있고, 정보의 producer간 관계를 cosine식으로 상수화해두고, 이 둘간의 조합을 통해서, 
+
+
+![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/d3d8fe60-7b1e-48fb-8b7c-1b7fc46c3e24)
+
+
+![image](https://github.com/justdoitjun/understandingTwitterAlgorithmtoApplyintoFinalProject/assets/119689162/a539a175-05b6-477c-bf13-f908ee2f814b)
+
+
+
+https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3
