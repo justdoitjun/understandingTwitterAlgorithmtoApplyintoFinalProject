@@ -1,4 +1,4 @@
-# Purpsoe : to understand main logics(not wholly) to apply it into final Project partially. 
+# Purpose : to understand main logics(not wholly) to apply it into final Project partially. 
 Applying Twitter-recommendation algorithm into final Projects. 
 
 To read
